@@ -57,6 +57,11 @@
 		</plugins>
 	</build>
  <distributionManagement>
+	<repository>
+            <id>deployment</id>
+            <name>Internal Releases</name>
+            <url>http://35.197.143.87:8081/repository/SpringBootArtifacts/</url>
+        </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
