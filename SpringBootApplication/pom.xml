@@ -60,12 +60,12 @@
 	<repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://35.197.143.87:8081/repository/SpringBootArtifacts/</url>
+            <url>http://35.200.134.119:8081/repository/SpringBootArtifacts/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.197.143.87:8081/repository/SpringBootArtifacts/</url>
+            <url>http://35.200.134.119:8081/repository/SpringBootArtifacts/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
